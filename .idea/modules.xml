@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis/sbm-account-service/sbm-account-service.iml" filepath="$PROJECT_DIR$/springboot-mybatis/sbm-account-service/sbm-account-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis/sbm-business-service/sbm-business-service.iml" filepath="$PROJECT_DIR$/springboot-mybatis/sbm-business-service/sbm-business-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis/sbm-common-service/sbm-common-service.iml" filepath="$PROJECT_DIR$/springboot-mybatis/sbm-common-service/sbm-common-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis/sbm-order-service/sbm-order-service.iml" filepath="$PROJECT_DIR$/springboot-mybatis/sbm-order-service/sbm-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis/sbm-storage-service/sbm-storage-service.iml" filepath="$PROJECT_DIR$/springboot-mybatis/sbm-storage-service/sbm-storage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seata-demo.iml" filepath="$PROJECT_DIR$/seata-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seata-server/seata-server.iml" filepath="$PROJECT_DIR$/seata-server/seata-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/server.iml" filepath="$PROJECT_DIR$/server/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis/springboot-mybatis.iml" filepath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis.iml" />
+    </modules>
+  </component>
+</project>
